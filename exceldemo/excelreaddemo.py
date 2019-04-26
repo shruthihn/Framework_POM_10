@@ -7,6 +7,7 @@ ws = wb.sheet_by_name("setup")
 # print(ws.nrows)
 
 col_val = ws.ncols
+
 row_val = ws.nrows
 
 
